@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+         <loc>brug/</loc>
+         <lastmod>2022-06-28</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="nl" href="nl/brug/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="en/brug/"/>
+         
+    </url>
+    <url>
+         <loc>csi/</loc>
+         <lastmod>2022-06-28</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="nl" href="nl/csi/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="en/csi/"/>
+         
+    </url>
+    <url>
+         <loc>cup1/</loc>
+         <lastmod>2022-06-28</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="nl" href="nl/cup1/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="en/cup1/"/>
+         
+    </url>
+    <url>
+         <loc>cup2/</loc>
+         <lastmod>2022-06-28</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="nl" href="nl/cup2/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="en/cup2/"/>
+         
+    </url>
+    <url>
+         <loc>duurzaam/</loc>
+         <lastmod>2022-06-28</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="nl" href="nl/duurzaam/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="en/duurzaam/"/>
+         
+    </url>
+    <url>
+         <loc>eten/</loc>
+         <lastmod>2022-06-28</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="nl" href="nl/eten/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="en/eten/"/>
+         
+    </url>
+    <url>
+         <loc>heelal/</loc>
+         <lastmod>2022-06-28</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="nl" href="nl/heelal/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="en/heelal/"/>
+         
+    </url>
+    <url>
+         <loc>.</loc>
+         <lastmod>2022-06-28</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="nl" href="nl/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="en/"/>
+         
+    </url>
+    <url>
+         <loc>kans/</loc>
+         <lastmod>2022-06-28</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="nl" href="nl/kans/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="en/kans/"/>
+         
+    </url>
+    <url>
+         <loc>keuringsdienst/</loc>
+         <lastmod>2022-06-28</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="nl" href="nl/keuringsdienst/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="en/keuringsdienst/"/>
+         
+    </url>
+    <url>
+         <loc>meten/</loc>
+         <lastmod>2022-06-28</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="nl" href="nl/meten/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="en/meten/"/>
+         
+    </url>
+    <url>
+         <loc>presenteren/</loc>
+         <lastmod>2022-06-28</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="nl" href="nl/presenteren/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="en/presenteren/"/>
+         
+    </url>
+    <url>
+         <loc>verslag/</loc>
+         <lastmod>2022-06-28</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="nl" href="nl/verslag/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="en/verslag/"/>
+         
+    </url>
+    <url>
+         <loc>wetenschap/</loc>
+         <lastmod>2022-06-28</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="nl" href="nl/wetenschap/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="en/wetenschap/"/>
+         
+    </url>
+</urlset>
