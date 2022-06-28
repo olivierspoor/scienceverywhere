@@ -1,1 +1,59 @@
-site_name: My Docs
+site_name: scienceverywhere
+
+theme:
+  name: material
+  # features:
+    # - navigation.tabs
+    # - navigation.tabs.sticky
+    # - navigation.sections
+    # - toc.integrate
+  palette: 
+    primary: light blue
+    accent: yellow
+
+
+nav: 
+  - Home: index.md
+  - 1HV:
+      - 1. Wat is wetenschap?: wetenschap.md
+      - 2. Crime Scene Investigation: csi.md
+      - 3. Meten: meten.md
+      - 4. EurekaCup: cup1.md
+      - 5. Heelal: heelal.md
+  - 2HV:
+      - 1. Keuringsdienst: keuringsdienst.md
+      - 2. Gezond eten: eten.md
+      - 3. Onderzoek & Kans: kans.md
+      - 4. Bruggen bouwen: brug.md
+      - 5. EurekaCup: cup2.md
+      - 6. Duurzaamheid: duurzaam.md
+  - Vaardigheden:
+      - Verslag schrijven: verslag.md
+      - Presenteren: presenteren.md
+
+
+plugins:
+    - search
+    - i18n:
+        default_language: nl
+        languages:
+            nl: Nederlands
+            en: TTO
+        nav_translations:
+            en:
+                1HV: 1TTO
+                1. Wat is wetenschap?: 1. What is science?
+                2. Crime Scene Investigation: 2. Crime Scene Investigation
+                3. Meten: 3. Measuring Up
+                4. EurekaCup: 4. EurekaCup
+                5. Heelal: 5. Watching the Sky
+                2HV: 2TTO
+                1. Keuringsdienst: 1. Inspection service
+                2. Gezond eten: 2. Healthy Food
+                3. Onderzoek & Kans: 3. Chance
+                4. Bruggen bouwen: 4. Building Bridges
+                5. EurekaCup: 5. EurekaCup
+                6. Duurzaamheid: 6. Sustainability
+                Vaardigheden: Skills
+                Verslag schrijven: Scientific Report
+                Presenteren: Presentation
